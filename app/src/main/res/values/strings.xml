@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TSURocketTrackerForGround</string>
+    <string name="rocket_location">Show Rocket Location</string>
+    <string name="list_of_bluetooth_paired_devices">List of Bluetooth Paired Devices</string>
 </resources>

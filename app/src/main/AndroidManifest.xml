@@ -22,6 +22,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD6_xuXcT6PHvD1MALAZgTFq9OiAV82NZI" />
+        <!-- Signed APK SHA-1 Key:08:45:43:9E:07:86:7D:8D:50:A3:87:88:C6:5C:26:78:45:1D:85:12
+        Debug SHA-1 Key:9C:14:D3:31:3C:29:20:D7:E1:DE:93:C8:9F:D4:09:04:29:CB:B1:68-->
     </application>
 
 </manifest>
